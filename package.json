@@ -1,0 +1,27 @@
+{
+  "name": "terminal-chat",
+  "version": "1.0.0",
+  "description": "You can communicate with terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbAyvazyan/terminal-chat.git"
+  },
+  "keywords": [
+    "terminal",
+    "chat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbAyvazyan/terminal-chat/issues"
+  },
+  "homepage": "https://github.com/AbAyvazyan/terminal-chat#readme",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "moment": "^2.30.1"
+  }
+}
